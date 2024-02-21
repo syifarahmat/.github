@@ -5,5 +5,5 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=syifarahmat&text_bold=false&show_icons=true&rank_icon=github&show=" />
 </a>
 <a href="https://syifarahmat.github.io/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=315" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=315&custom_title=%C2%A9Tukang%20Pecut%20Juru%20Ketik%E2%84%A2%27s%20Top" />
 </a>
